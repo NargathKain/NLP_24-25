@@ -1,0 +1,10 @@
+=== TEXT1 RESULTS ===
+
+--- TextBlob ---
+Today our dragon boat festival our culture it our lives is celebrate Chinese safe great in to with all and in. Hope you it my deepest wishes enjoy too to as. Your message our words doctor his contract checking us Thank show next to to the as to all of. I message message got see approved this to the. Fact I message professor me couple days have received show ago In the from the to this a of. I support professor our Printer proceedings publication am very appreciated full the of the for.
+
+--- Embeddings ---
+This this our lantern sailing festivals, in our China cultural, to celebration it with all ensure and greatest in our living. Come you quite, to feel it as my deepest respect. Me your speech to shows our meaning to the doctors, as his day deal checks, to all of us. I just this calling to look the approval address. In because, I they given the letter from the university, to shows me, this, a few of week last. I happy too appreciation the no supporting of the university, for our Springer hearing publications.
+
+--- Transformer ---
+Today is our dragon boat festival, in our Chinese culture, to celebrate it with all safe and great in our lives. Hope you too, to enjoy it as my deepest wishes. Thank your message to show our words to the doctor, as his next contract checking, to all of us. I got this message to see the approved message. In fact, I have received the message from the professor, to show me, this, a couple of days ago. I am very appreciated the full support of the professor, for our Springer Proceedings publication. .
